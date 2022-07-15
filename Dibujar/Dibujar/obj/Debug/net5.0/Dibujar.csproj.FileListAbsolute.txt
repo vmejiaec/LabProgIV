@@ -1,0 +1,16 @@
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.exe
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.deps.json
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.runtimeconfig.json
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.runtimeconfig.dev.json
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.dll
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\ref\Dibujar.dll
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\bin\Debug\net5.0\Dibujar.pdb
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.csproj.AssemblyReference.cache
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.AssemblyInfoInputs.cache
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.AssemblyInfo.cs
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.csproj.CoreCompileInputs.cache
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.dll
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\ref\Dibujar.dll
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.pdb
+C:\Users\ITQ\source\repos\Dibujar\Dibujar\obj\Debug\net5.0\Dibujar.genruntimeconfig.cache
